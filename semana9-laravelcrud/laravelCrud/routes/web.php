@@ -14,6 +14,7 @@ use App\Http\Controllers\PetController;
 |
 */
 
+
 Route::get('/', function () {
     return view('welcome');
 });
